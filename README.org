@@ -1,0 +1,5 @@
+* Chemistry Theme
+  Developing...
+
+** License
+   GPL-3.0

@@ -1,7 +1,7 @@
-;;; chemistry-theme.el --- 111  -*- lexical-binding: t; -*-
+;;; chemistry-theme.el --- A cool theme with bright and dark colors  -*- lexical-binding: t; -*-
 
 ;; Filename: chemistry-theme.el
-;; Description: 111
+;; Description: A cool theme with bright and dark colors
 ;; Author: KiteAB <kiteabpl@outlook.com>
 ;; Maintainer: KiteAB <kiteabpl@outlook.com>
 ;; Copyright (C) 2021, KiteAB, all rights reserved.
@@ -38,7 +38,7 @@
 
 ;;; Commentary:
 ;;
-;; 111
+;; A cool theme with bright and dark colors
 ;;
 
 ;;; Installation:

@@ -70,6 +70,7 @@
 
 ;;; Code:
 
+(deftheme chemistry-light "A cool light theme")
 
 (provide-theme 'chemistry-light)
 

@@ -70,6 +70,7 @@
 
 ;;; Code:
 
+(deftheme chemistry-dark "A cool dark theme")
 
 (provide-theme 'chemistry-dark)
 
